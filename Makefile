@@ -2,7 +2,7 @@ PREFIX = /usr
 MANDIR = $(PREFIX)/share/man
 
 all:
-	@echo Run \'make install (for linux) or haiku or macos\' to install Neofetch.
+	@echo Run \'make install for linux or haiku or macos\' to install Neofetch.
 
 install:
 	@mkdir -p $(DESTDIR)$(PREFIX)/bin
