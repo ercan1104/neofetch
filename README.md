@@ -1,4 +1,4 @@
-## Fork from hykilpikonna/neofetch with installation on ShellScript
+## Fork from [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) with installation on ShellScript
 
 To install from Makefile firstly run `make`
 
